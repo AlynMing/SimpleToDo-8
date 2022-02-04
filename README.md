@@ -4,7 +4,7 @@
 
 Submitted by: **Jihao Zhang**
 
-Time spent: **5** hours spent in total
+Time spent: **8** hours spent in total
 
 ## User Stories
 
@@ -32,11 +32,11 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Following the video course and learn about this first Assignment of the Android Course, I find it relatively a challenge for me to understand some rules of Kotlin and Android frameworks at the beginning, however, everything becomes better afterwards. Finally, it takes me more than 3 hours to complete the optional task to realize the modify function. I search many things on the website, read the documents and watch some codes and demos. After finishing, I find myself commanding the coding skills for Android much more. Thanks the project for make me interested in programming for Android!
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright @CodePath
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
